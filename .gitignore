@@ -1,2 +1,2 @@
 /vagrant_graphite/.vagrant/*
-.gitignore
+/.gitignore
